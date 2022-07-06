@@ -23,10 +23,6 @@ Ask me anything **[here](https://github.com/montyyyyy/montyyyyy/issues/new)**</a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montyyyyy&layout=compact&theme=dark&bg_color=0A0A0A" alt="Montlamedi Top Languages"/>
 <br />
 <br />
-<br />
-
-**Happy Coding!** 😊
-
 </div>
 
 <div align="center">
