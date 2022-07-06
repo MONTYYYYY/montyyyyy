@@ -13,7 +13,7 @@ I'm primarily a Front End Developer with 3+ years of hands-on experience designi
 I pride myself in being an independent individual that strives for a high standard of quality in my work, whilst adhering to set project timelines. I am always keen to learn new things...
 <br />
 
-I'm currently based in **[Cape Town, South Africa](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+I'm currently based in **[Cape Town, South Africa](https://www.google.com/maps/place/Cape+Town/@-33.9131288,18.0956085,9z/data=!3m1!4b1!4m5!3m4!1s0x1dcc500f8826eed7:0x687fe1fc2828aa87!8m2!3d-33.9248685!4d18.4240553)**
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
