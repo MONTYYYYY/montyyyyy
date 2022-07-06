@@ -8,7 +8,9 @@
 <br />
 <br />
 
-I'm primarily a Front End Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm primarily a Front End Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in React, NodeJS, and TypeScript. Strong engineering professional with a B.S.C (Hon.) Computer Science and B.S.C Business Computing from the University of Cape Town (South Africa).
+ 
+I pride myself in being an independent individual that strives for a high standard of quality in my work, whilst adhering to set project timelines. I am always keen to learn new things...
 <br />
 
 I'm currently based in **[Cape Town, South Africa](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
