@@ -5,8 +5,8 @@
 </a>
 <br />
 <br />
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/montyyyyy/montyyyyy/blob/master/devcard.svg" width="400" alt="Montlamedi Maikano's Dev Card"/></a>
-
+<a href="https://app.daily.dev/montyyyyy"><img src="https://github.com/montyyyyy/montyyyyy/blob/main/devcard.svg" width="400" alt="Montlamedi Maikano's Dev Card"/></a>
+ 
 <br />
 <br />
 
