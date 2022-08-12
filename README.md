@@ -8,7 +8,7 @@
 <br />
 <br />
 
-I'm primarily a Front End Developer with 3+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in React, NodeJS, and TypeScript. Strong engineering professional with a B.S.C (Hon.) Computer Science and B.S.C Business Computing from the University of Cape Town (South Africa).
+I'm primarily a Front End Developer with 3.5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages. Experienced Software Engineer with a demonstrated history of working in the financial services industry. Skilled in React, NodeJS, and TypeScript. Strong engineering professional with a B.S.C (Hon.) Computer Science and B.S.C Business Computing from the University of Cape Town (South Africa).
  
 I pride myself in being an independent individual that strives for a high standard of quality in my work, whilst adhering to set project timelines. I am always keen to learn new things...
 <br />
