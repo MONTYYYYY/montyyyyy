@@ -40,7 +40,7 @@ Ask me anything **[here](https://github.com/montyyyyy/montyyyyy/issues/new)**</a
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/officel/80/react.png" alt="react"></a>
 <a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/fluency/48/graphql.png" alt="graphql"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="nodejs"></a>
 </div>
 
 
