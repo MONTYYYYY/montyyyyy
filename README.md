@@ -34,12 +34,12 @@ Ask me anything **[here](https://github.com/montyyyyy/montyyyyy/issues/new)**</a
 ## Tech Stack
 
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphql.svg" alt="graphql"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/arcade/64/html-5.png" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/stickers/100/css3.png" alt="css"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"></a>
+<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/officel/80/react.png" alt="react"></a>
+<a margin="10" href="https://graphql.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/fluency/48/graphql.png" alt="graphql"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 </div>
 
